@@ -1,0 +1,8 @@
+{
+  "files.watcherExclude": {
+    "**/*.mpt": true
+  },
+  "search.exclude": {
+    "**/*.mpt": true
+  }
+}
